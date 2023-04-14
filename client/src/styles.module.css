@@ -1,0 +1,73 @@
+.todolist{
+    font-family: 'Architects Daughter', cursive;
+    width:40%;
+    border: 2px solid #D5B4B4;
+    margin: 10px;
+    padding:20px;
+    display: inline-block;
+    position: absolute;
+    right:20px;
+
+  }
+  
+.thetop{
+    font-family: "Poiret One", cursive;
+    margin: 0 auto 0 auto;
+    background-color:#E4D0D0;
+    border: 5px solid #D5B4B4;
+    font-size: 5px;
+}
+.headings{
+    text-align:center;
+    color: #867070;
+    font-size: 3rem;
+    font-family: 'Poiret One', cursive;
+}
+
+.theleft{
+    font-family: 'Architects Daughter', cursive;
+    width:47%;
+    border: 2px solid #D5B4B4;
+    margin: 10px;
+    padding:20px;
+    display: inline-block;
+    position: absolute;
+    left:20px;
+  }
+
+.todoform{
+  
+}
+
+.tododone{
+
+}
+
+
+
+  .btn {
+    background: #D5B4B4;
+    background-image: -webkit-linear-gradient(top, #D5B4B4, #E4D0D0);
+    background-image: -moz-linear-gradient(top, #D5B4B4, #E4D0D0);
+    background-image: -ms-linear-gradient(top, #D5B4B4, #E4D0D0);
+    background-image: -o-linear-gradient(top, #D5B4B4, #E4D0D0);
+    background-image: linear-gradient(to bottom, #D5B4B4, #E4D0D0);
+    -webkit-border-radius: 1000;
+    -moz-border-radius: 1000;
+    border-radius: 100%;
+    font-family: "Poiret-One";
+    color: #ffffff;
+    font-size: 1rem;
+    padding: 10px 15px 10px 15px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #D5B4B4, #867070);
+    background-image: -moz-linear-gradient(top, #D5B4B4, #867070);
+    background-image: -ms-linear-gradient(top, #D5B4B4, #867070);
+    background-image: -o-linear-gradient(top, #D5B4B4, #867070);
+    background-image: linear-gradient(to bottom, #D5B4B4, #867070);
+    text-decoration: none;
+  }
